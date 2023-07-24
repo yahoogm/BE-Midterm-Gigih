@@ -1,0 +1,11 @@
+{
+  "name": "midterm-project",
+  "packageManager": "yarn@3.5.1",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

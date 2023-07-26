@@ -55,6 +55,8 @@ Returns all videos in the system.
 
 ## **GET /products**
 
+Returns all products in the system.
+
 - **URL Params**  
   _Required:_ `id=[string]`
 - **Data Params**  

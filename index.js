@@ -1,3 +1,3 @@
-import { startRest } from "./app/rest";
+import { startRest } from "./app/rest.js";
 
 startRest();

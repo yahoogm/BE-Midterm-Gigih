@@ -4,6 +4,8 @@
 
 ## API Structure
 
+<img src="https://github.com/yahoogm/Midterm-Project-Gigih/assets/100346233/27fe2829-1d62-48a0-8d1f-a5c48200d483"/>
+
 ## API Request and Response
 
 #Videos

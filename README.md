@@ -167,7 +167,6 @@ This project build to complete the midterm test in Generasi Gigih 3.0 present by
 #Instruction installation
 
 - **Clone this repositories**
-
   You need to clone this repositorie to your local laptop/computer
 
 - **Download and install MongoDB Compass & MongoDB Shell**

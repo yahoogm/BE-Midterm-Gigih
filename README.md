@@ -167,6 +167,7 @@ This project build to complete the midterm test in Generasi Gigih 3.0 present by
 #Instruction installation
 
 - **Clone this repositories**
+
   You need to clone this repositorie to your local laptop/computer
 
 - **Download and install MongoDB Compass & MongoDB Shell**
@@ -179,6 +180,7 @@ This project build to complete the midterm test in Generasi Gigih 3.0 present by
   - Create three collection with name [comments], [products], and [videos]
 
 - **Initial the project**
+
   After install the MongoDB and MongoDB Shell you can open the project in your Code Editor. First you nedd to run script
 
   ```
@@ -188,8 +190,11 @@ This project build to complete the midterm test in Generasi Gigih 3.0 present by
   this script is to download all the package for running this project.
 
 - **Run the project**
+
   After complete initial the project, you can run this script
+
   ```
   yarn dev
   ```
+
   this script able to run the project in localhost on port 3000. After it you can use the API in your local Postman software. If you dont have it, you can download it [Postman](https://www.postman.com/downloads/) or you wanna use other software is up to you.

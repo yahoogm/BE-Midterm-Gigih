@@ -167,9 +167,11 @@ This project build to complete the midterm test in Generasi Gigih 3.0 present by
 #Instruction installation
 
 - **Clone this repositories**
+
   You need to clone this repositorie to your local laptop/computer
 
 - **Download and install MongoDB Compass & MongoDB Shell**
+
   MongoDB is using for the databases and for simple using database with MongoDB Compass. You can download [MongoDB Compass](https://www.mongodb.com/try/download/compass). MongoDB Shell is using for simple syntax in terminal for create database, use database, and many more. You can download [MongoDBShell](https://www.mongodb.com/try/download/shell). After you finish install all, the next step is making the database. You can follow this step:
 
   - Open your MongoDB Compass software

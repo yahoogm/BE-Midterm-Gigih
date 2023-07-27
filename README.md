@@ -168,7 +168,7 @@ This project build to complete the midterm test in Generasi Gigih 3.0 present by
 
 - **Clone this repositories**
 
-  You need to clone this repositorie to your local laptop/computer
+  You need to clone this repositories to your local laptop/computer
 
 - **Download and install MongoDB Compass & MongoDB Shell**
 
@@ -177,7 +177,7 @@ This project build to complete the midterm test in Generasi Gigih 3.0 present by
   - Open your MongoDB Compass software
   - Hit the button connect for connecting your local to database
   - Create database name is midterm_gigih
-  - Create three collection with name [comments], [products], and [videos]
+  - Create three collection with name **comments**, **products**, and **videos**
 
 - **Initial the project**
 

@@ -1,4 +1,7 @@
-<h1> List API request and response </h1>
+<h1> i. Database Structure </h1>
+![midterm-gigih](https://github.com/yahoogm/Midterm-Project-Gigih/assets/100346233/6122f49a-91e7-46b9-9cb5-3210878956d0)
+
+<h1> iii. List API request and response </h1>
 
 #Videos
 
@@ -50,10 +53,6 @@ Returns all videos in the system.
   price: integer
 }
 ```
-
-- **Error Response:**
-- **Code:** 404  
-  **Content:** `{ message : "Videos not found!" }`
 
 ## **GET /products**
 
@@ -149,3 +148,5 @@ Creates a new comment and returns the new object.
 - **Error Response:**
 - **Code:** 400  
   **Content:** `{ message : "video id, comment, username is required!" }`
+
+<h1> iv. How to run in local </h1>

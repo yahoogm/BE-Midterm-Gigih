@@ -1,5 +1,5 @@
 <h1> i. Database Structure </h1>
-![midterm-gigih](https://github.com/yahoogm/Midterm-Project-Gigih/assets/100346233/6122f49a-91e7-46b9-9cb5-3210878956d0)
+![midterm-gigih] (https://github.com/yahoogm/Midterm-Project-Gigih/assets/100346233/6122f49a-91e7-46b9-9cb5-3210878956d0)
 
 <h1> iii. List API request and response </h1>
 

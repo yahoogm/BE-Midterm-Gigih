@@ -1,8 +1,10 @@
-## i. Database Structure
+## Database Structure
 
 <img src="https://github.com/yahoogm/Midterm-Project-Gigih/assets/100346233/6122f49a-91e7-46b9-9cb5-3210878956d0"/>
 
-## iii. List API request and response
+## API Structure
+
+## List API request and response
 
 #Videos
 

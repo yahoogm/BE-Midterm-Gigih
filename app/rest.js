@@ -43,10 +43,6 @@ export const startRest = () => {
     res.status(200).json({
       message: "Welcome to final project API",
     });
-
-    res.status(404).json({
-      message: "Not Found!",
-    });
   });
 
   app.listen(port, () => {

@@ -40,8 +40,8 @@ export const startRest = () => {
   app.use("/comments", commentsRouter);
 
   app.use((req, res) => {
-    res.status(404).json({
-      message: "Not found!",
+    res.status(200).json({
+      message: "Welcome to final project API",
     });
   });
 
